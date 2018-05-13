@@ -1,0 +1,9 @@
+D:\VisualStudio\maranghello.georgina\classLibrary\bin\Debug\classLibrary.exe.config
+D:\VisualStudio\maranghello.georgina\classLibrary\bin\Debug\classLibrary.exe
+D:\VisualStudio\maranghello.georgina\classLibrary\bin\Debug\classLibrary.pdb
+D:\VisualStudio\maranghello.georgina\classLibrary\obj\Debug\classLibrary.csprojResolveAssemblyReference.cache
+D:\VisualStudio\maranghello.georgina\classLibrary\obj\Debug\classLibrary.exe
+D:\VisualStudio\maranghello.georgina\classLibrary\obj\Debug\classLibrary.pdb
+E:\PROGRAMACION II\clase IV\maranghello.georgina\classLibrary\bin\Debug\classLibrary.exe.config
+E:\PROGRAMACION II\clase IV\maranghello.georgina\classLibrary\obj\Debug\classLibrary.exe
+E:\PROGRAMACION II\clase IV\maranghello.georgina\classLibrary\obj\Debug\classLibrary.pdb

@@ -1,0 +1,5 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\maranghello.georgina\entidadSello\bin\Debug\entidadSello.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\maranghello.georgina\entidadSello\bin\Debug\entidadSello.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\maranghello.georgina\entidadSello\obj\Debug\entidadSello.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\maranghello.georgina\entidadSello\obj\Debug\entidadSello.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\maranghello.georgina\entidadSello\obj\Debug\entidadSello.csprojResolveAssemblyReference.cache
